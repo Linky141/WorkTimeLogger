@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\tomas\\Documents\\Code\\Desktop\\WorkTimeLogger\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8F5DEA0D-7EB6-4BBA-ABF4-67EDCD9700B6}|WorkTimeLogger.csproj|c:\\users\\tomas\\documents\\code\\desktop\\worktimelogger\\period.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F5DEA0D-7EB6-4BBA-ABF4-67EDCD9700B6}|WorkTimeLogger.csproj|solutionrelative:period.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F5DEA0D-7EB6-4BBA-ABF4-67EDCD9700B6}|WorkTimeLogger.csproj|c:\\users\\tomas\\documents\\code\\desktop\\worktimelogger\\period.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8F5DEA0D-7EB6-4BBA-ABF4-67EDCD9700B6}|WorkTimeLogger.csproj|solutionrelative:period.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8F5DEA0D-7EB6-4BBA-ABF4-67EDCD9700B6}|WorkTimeLogger.csproj|c:\\users\\tomas\\documents\\code\\desktop\\worktimelogger\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F5DEA0D-7EB6-4BBA-ABF4-67EDCD9700B6}|WorkTimeLogger.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\tomas\\Documents\\Code\\Desktop\\WorkTimeLogger\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
@@ -35,15 +43,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\tomas\\Documents\\Code\\Desktop\\WorkTimeLogger\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\tomas\\Documents\\Code\\Desktop\\WorkTimeLogger\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBkAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-17T21:15:39.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Period.xaml",
+              "DocumentMoniker": "C:\\Users\\tomas\\Documents\\Code\\Desktop\\WorkTimeLogger\\Period.xaml",
+              "RelativeDocumentMoniker": "Period.xaml",
+              "ToolTip": "C:\\Users\\tomas\\Documents\\Code\\Desktop\\WorkTimeLogger\\Period.xaml",
+              "RelativeToolTip": "Period.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-17T21:37:40.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Period.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\Documents\\Code\\Desktop\\WorkTimeLogger\\Period.xaml.cs",
+              "RelativeDocumentMoniker": "Period.xaml.cs",
+              "ToolTip": "C:\\Users\\tomas\\Documents\\Code\\Desktop\\WorkTimeLogger\\Period.xaml.cs",
+              "RelativeToolTip": "Period.xaml.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAqwC0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T21:43:10.537Z",
               "EditorCaption": ""
             }
           ]

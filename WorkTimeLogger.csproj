@@ -8,4 +8,8 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Syncfusion.SfInput.WPF" Version="26.1.35" />
+  </ItemGroup>
+
 </Project>

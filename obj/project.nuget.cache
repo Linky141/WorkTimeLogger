@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "FwRtJihSEyg=",
+  "dgSpecHash": "sfJJRUFUwzU=",
   "success": true,
   "projectFilePath": "C:\\Users\\tomas\\Documents\\Code\\Desktop\\WorkTimeLogger\\WorkTimeLogger.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\tomas\\.nuget\\packages\\syncfusion.licensing\\26.1.35\\syncfusion.licensing.26.1.35.nupkg.sha512",
+    "C:\\Users\\tomas\\.nuget\\packages\\syncfusion.sfinput.wpf\\26.1.35\\syncfusion.sfinput.wpf.26.1.35.nupkg.sha512",
+    "C:\\Users\\tomas\\.nuget\\packages\\syncfusion.shared.wpf\\26.1.35\\syncfusion.shared.wpf.26.1.35.nupkg.sha512"
+  ],
   "logs": []
 }
